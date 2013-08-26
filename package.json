@@ -1,0 +1,22 @@
+{
+  "name": "rx-spinner",
+  "version": "0.0.1",
+  "description": "React-based spinner component",
+  "main": "Spinner.js",
+  "dependencies": {
+    "react-core": "git://github.com/jordwalke/npm-react-core.git"
+  },
+  "devDependencies": {
+    "browserify": "~2.17.0"
+  },
+  "author": {
+    "name": "Pete Hunt",
+    "email": "pete@instagram.com"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ]
+}
